@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Sodiqov Sanjarbek!](https://github.com/SanjarbekDev/)
+## Hey 👋, I'm [Sanjarbek Sodiqov!](https://github.com/SanjarbekDev/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanjarbek-sodiqov-445708234?fromQR=1)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/SanjarbekDev)
